@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(130, 213, 219);
+}
+
+h2{
+    color: black;
+    border:2px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+  }
+
+iframe { 
+    width: 950px; 
+    height: 500px;
+    
+}
